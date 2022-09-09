@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions Only!"
+title: "Smart Questions Only"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-08
 published: true
 labels:
-  - Smart Questions
   - Athletic Software Engineering
 ---
 
