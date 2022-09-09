@@ -1,0 +1,31 @@
+---
+layout: essay
+type: essay
+title: "Smart Questions Only!"
+# All dates must be YYYY-MM-DD format!
+date: 2022-09-08
+published: true
+labels:
+  - Smart Questions
+  - Athletic Software Engineering
+---
+
+## How to Ask Smart Questions
+
+How many times do you ask questions per day? Are they smart questions? Asking questions are vital to learning and to clear up any confusion you may have, however, asking bad questions is simply annoying, inconsiderate, and shows lack of effort. Asking someone a question is asking someone to take time out of their day to help you, so it is critical you don’t waste their time and make it productive for you, the person helping you, and even other people who may benefit from your question. So, when and how do you ask a good question? The simple answer to when you should ask a question is after you’ve done all you can to find the answer yourself. And to do that, you may use any tool including searching the web, seeing if it has already been asked or even answered, looking at FAQs, etc. So, what is a smart question? A smart question mainly consists of showing that you have put effort into researching it yourself first, being concise, giving any necessary information that may help, and being clear of what you’re trying to solve. 
+
+Asking smart questions is beneficial for everyone involved. It helps you (the questioner) receive good answers that answer the question you are asking or points you to the right direction. Asking smart questions benefits the person answering because it shows where people may be confused and could make changes or address it. Additionally, it also helps other bystanders that may also have the same question or even for others to just learn.
+
+## Smart Question (Example)
+
+[Question 1 Example](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
+
+An example of a smart question asked in StackOverflow was regarding JavaScript closures. The subject line was “How do JavaScript closures work?”. Its description included a paragraph of his current background knowledge on JavaScript and a second very short paragraph on what he did before asking the question. This is an example of a smart question, and 7600 other people agree, because it has a concise and clear subject line, gave any necessary information in the description, and showed that he put in effort to research beforehand. His smart question led to many smart and quite long and well-structured answers that include examples.
+
+## Bad Question (Example)
+
+[Question 2 Example](https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array)
+
+An example of a question, that I feel is bad, is someone asking how to remove an item from an array. Its subject line and description is short and simple, however I think the person could have the answer him or herself through documentation. 
+
+
