@@ -19,5 +19,5 @@ This project is an assignment from an online curriculum called [The Odin Project
 
 Creating this project was impactful on my learning in web development. I learned how to create forms that take in input and validate it, then I practice what I learned by creating a working version of it.
 
-View the code: <a href="https://github.com/GrandeJames/sign-up-form">https://github.com/GrandeJames/sign-up-form</a>
-See it live: <a href="[https://github.com/GrandeJames/sign-up-form](https://grandejames.github.io/sign-up-form/)">https://github.com/GrandeJames/sign-up-form</a>
+View the code: [https://github.com/GrandeJames/sign-up-form](https://github.com/GrandeJames/sign-up-form)
+See it live: [https://grandejames.github.io/sign-up-form/](https://grandejames.github.io/sign-up-form/)
