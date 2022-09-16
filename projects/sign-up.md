@@ -8,6 +8,8 @@ published: true
 labels:
   - HTML
   - CSS
+  - Forms
+  - Form Validation
 summary: "A website I developed from The Odin Project. I practiced creating forms and validating forms using HTML and CSS."
 ---
 
