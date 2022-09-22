@@ -7,7 +7,6 @@ date: 2022-09-21
 published: true
 labels:
   - Coding Standards
-  - Technical Essay
 ---
 
 ## What is it?
