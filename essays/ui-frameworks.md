@@ -17,7 +17,7 @@ Should you learn a user interface (UI) framework? I have been learning UI Framew
 UI frameworks have many benefits that mainly help with creating simple code quicker. Some of the benefits I’ve encountered so far are quick setup, fast UI creation, responsiveness, and readability. Setting up a project to use Bootstrap is surprisingly simple. All you need to do is add a few lines of code. Additionally, creating the UI of a web page is much quicker because you are provided things like default styles, such as already styled buttons, and nice icons that you can use and find quickly in the documentation. Another benefit of using Bootstrap is that you can quickly and simply make your web page responsive to all devices depending on their size. Lastly, another major benefit of Bootstrap or other UI frameworks is readability. When using Bootstrap and the defaults given (such as using the default, styled buttons), the CSS code is drastically shorter than it would’ve been just using HTML and CSS. I didn’t have to style the buttons in the CSS because it was already styled, and I used CSS Grid or FlexBox (rows, columns) within the HTML itself.
 
 <img width="600px" 
-     class="rounded float-start pe-4" 
+     class="rounded pe-4" 
      src="../img/ui-frameworks/jumbotron.png" >
 
 ## Cons
