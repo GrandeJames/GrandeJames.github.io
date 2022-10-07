@@ -18,7 +18,7 @@ UI frameworks have many benefits that mainly help with creating simple code quic
 
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src="../img/ui-frameworks/jumbotron.png”>
+     src="../img/ui-frameworks/jumbotron.png" >
 
 ## Cons
           
