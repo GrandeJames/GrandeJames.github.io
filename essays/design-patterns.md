@@ -9,9 +9,9 @@ labels:
   - Design Patterns
 ---
 
-## A Design pattern is like a blueprint for building a car
+## A design pattern is like a blueprint for building a car
 
-<img width="600px" 
+<img width="300px" 
      class="rounded pe-4" 
      src="../img/design-patterns/cars.jpg" >
      
