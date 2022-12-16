@@ -16,7 +16,7 @@ Software engineering is the creation of software systems and applications. It in
 
 ## Agile Project Management
 
-<img width="350px" 
+<img width="300px" 
      class="rounded pe-4" 
      src="../img/software-engineering/agile-methodology.jpg" >
      
@@ -24,7 +24,7 @@ A critical concept in software engineering is project management, which is a way
 
 ## Design Patterns
 
-<img width="350px" 
+<img width="300px" 
      class="rounded pe-4" 
      src="../img/software-engineering/design-patterns.jpg" >
 
