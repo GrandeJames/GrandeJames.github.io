@@ -4,7 +4,7 @@ type: essay
 title: "Learning Web Development"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-31
-published: true
+published: false
 labels:
   - JavaScript
   - Athletic Software Engineering
