@@ -4,7 +4,7 @@ type: essay
 title: "My Current Journey on Becoming a Software Engineer"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-15
-published: true
+published: false
 labels:
   - Software Engineer
   - Web Developer
