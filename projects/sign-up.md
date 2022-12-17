@@ -10,7 +10,7 @@ labels:
   - CSS
   - Forms
   - Form Validation
-summary: "A website I developed from The Odin Project. I practiced creating forms and validating forms using HTML and CSS."
+summary: "A sign up page that implements form validation using HTML and CSS."
 ---
 
 <img class="img-fluid" src="../img/sign-up-full.png">
