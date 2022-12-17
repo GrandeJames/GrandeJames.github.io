@@ -9,7 +9,7 @@ labels:
   - HTML
   - CSS
   - JavaScript
-summary: "A website I developed from The Odin Project. I practiced using HTML, CSS, and JavaScript together."
+summary: "A website I developed that lets you sketch by coloring the grid you hover with your mouse pointer."
 ---
 
 <img class="img-fluid" src="../img/etch-a-sketch-full.png">
