@@ -10,7 +10,7 @@ labels:
   - CSS
   - Forms
   - Form Validation
-summary: "A sign up page that implements form validation using HTML and CSS."
+summary: "A sign up page I developed that implements form validation using HTML and CSS."
 ---
 
 <img class="img-fluid" src="../img/sign-up-full.png">
