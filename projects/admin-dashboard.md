@@ -10,7 +10,7 @@ labels:
   - CSS
   - Grid
   - Flexbox
-summary: "A website I developed from The Odin Project. I practiced using FlexBox, CSS Grid, and more."
+summary: "A website I developed to create a user interface implemented using both FlexBox and CSS Grid."
 ---
 
 <img class="img-fluid" src="../img/admin-dashboard-full.png">
