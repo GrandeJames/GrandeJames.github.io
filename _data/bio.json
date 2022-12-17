@@ -1,0 +1,68 @@
+{
+  "basics": {
+    "name": "James Grande",
+    "label": "Student",
+    "picture": "https://github.com/GrandeJames.png",
+    "email": "jlgrande@hawaii.edu",
+    "phone": "808-469-8259",
+    "website": "https://grandejames.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "GrandeJames", "url": "http://github.com/GrandeJames" },
+      { "network": "linkedin", "username": "jlag6", "url": "http://linkedin.com/in/jlag6/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Web Development" },
+    { "name": "Web Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "JavaScript", "HTML", "CSS", "Java", "C/C++", "React", "Meteor" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub", "Firebase", "MongoDB", "MacOS" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2022-08",
+      "endDate": "Present",
+      "courses": [ "Algorithms", "Software Engineering I" ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Natural Science",
+      "studyType": "A.S.",
+      "startDate": "2020-01",
+      "endDate": "2022",
+      "courses": [ "Intro to Computer Science I & II", "Program Structure", "Discrete Mathematics I & II" ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2020-2022",
+      "awarder": "Leeward Community College",
+      "summary": "Received Dean's List every semester at Leeward Community College."
+    },
+    {
+      "title": "Magna Cum Laude and Academic Honors",
+      "date": "2019",
+      "awarder": "James Campbell High School",
+      "summary": "Graduated High School with Magna Cum Laude and Academic Honors."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
