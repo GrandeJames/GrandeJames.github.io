@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Software Engineering"
+title: "Learning to be a Software Engineer"
 # All dates must be YYYY-MM-DD format!
-date: 2022-12-15
+date: 2023-5-08
 published: true
 labels:
   - Software Engineering
