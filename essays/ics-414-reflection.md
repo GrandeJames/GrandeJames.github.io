@@ -18,11 +18,11 @@ This class is very different from other classes. We didn’t have tests or many 
 
 ## What I Learned
 
-<img width="450px" 
+<img width="550px" 
      class="rounded pe-4" 
      src="https://ics414t3.github.io/assets/images/final/HomepageRedo.png" >
 
-From working on the web application, I gained some new valuable knowledge including the importance of planning, project structure, using components, React (useState and props), and utilizing external libraries like D3. Having a good project structure and having reusable components feel are the most important things I took away from working on this project because it greatly helps with having organized and clean code that allows you and your team to easily scale or add on to the project.
+From working on the web application, I gained some new valuable knowledge including the importance of planning, project structure, using components, React (useState and props), and utilizing external libraries like D3. Having a good project structure and having reusable components are the most important things I took away from working on this project because it greatly helps with having organized and clean code that allows you and your team to easily scale or add on to the project.
 
 ## Conclusion
 My experience in ICS 414 was good. I enjoyed working on the project, working with my teammates and the customers. In this class, I learned to be a software engineer.
